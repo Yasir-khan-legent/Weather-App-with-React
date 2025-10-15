@@ -1,12 +1,44 @@
-# React + Vite
+# 🌦️ Weather App with React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and elegant **Weather App** built using **React** and **Vite**.  
+It allows users to search for any city and get real-time weather information using a live weather API.
 
-Currently, two official plugins are available:
+🟢 **Live Demo:** [https://weather-app-with-react-lemon.vercel.app](https://weather-app-with-react-lemon.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🌍 Search weather by city name  
+- 🌡️ Displays temperature, humidity, and weather condition  
+- 🕒 Real-time weather updates  
+- 📱 Fully responsive design for all devices  
+- ⚡ Built with Vite for blazing-fast performance  
+
+---
+
+## 🧩 Tech Stack
+
+- **React.js** – Frontend UI library  
+- **Vite** – Modern and fast development environment  
+- **CSS** – For responsive styling  
+- **OpenWeatherMap API** (or similar) – To fetch real-time weather data  
+
+---
+
+## 📦 Installation and Setup
+
+Follow these steps to run the project locally:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/Yasir-khan-legent/Weather-App-with-React
+
+# 2. Navigate into the project folder
+cd Weather-App-with-React
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
